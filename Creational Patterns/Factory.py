@@ -23,7 +23,7 @@ class PattieBurger(Burger):
 
 class Restaurant(ABC):
 
-    @abstractmethod         # This is the Factory Method! *******************8
+    @abstractmethod         # This is the Factory Method! *******************
     def createBurger(self):
         pass
 
