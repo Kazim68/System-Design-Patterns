@@ -1,0 +1,1 @@
+CompositeBox(CompositeBox([Book("Python", 50), Book("Java", 60)]), VideoGame("FIFA", 80))
